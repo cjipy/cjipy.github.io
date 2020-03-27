@@ -1,0 +1,22 @@
+- id: bolsos
+  i18n: nav.bolsos
+  name: Bolsos
+  tpl: bolsos_sub.html
+  page: bolsos/
+  css: 
+
+- id: accesorios
+  i18n: nav.accesorios
+  name: Accesorios
+  tpl: accesorios_sub.html
+  page: accesorios/
+  css: 
+
+- id: ropa
+  i18n: nav.ropa
+  name: ropa
+  tpl: ropa_sub.html
+  ropa: ropa/
+  css: 
+
+    

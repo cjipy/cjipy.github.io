@@ -1,0 +1,33 @@
+---
+---
+<div class="container">
+    <div class="row m-b-lg">
+        <div class="col-lg-12 text-center">
+            <h1><span>{{page.title}}</span></h1>
+        </div>
+    </div>
+    <div class="row">
+        {% for prod in site.data.sub_data.{{page.name}} %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if forloop.last %}
+                {% if forloop.last == forloop.first %}
+            <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+                {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
+                {% endif %}
+            {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+            {% endif %}
+              <div class="acc-single">
+                <img src="{{ prod.img | prepend: site.baseurl }}" class="img-responsive" alt="">
+                <h4>
+                <span class="navy">{{ prod.name }}</span> 
+                </h4>
+
+                <h5><span class="price">{{ prod.price }}</span> </h5>
+            </div>
+        </div>
+    {% endfor %}
+  </div>
+</div>
+<br>
