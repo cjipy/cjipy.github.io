@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: products
 title: Ropa
 permalink: /ropa/
 ---
@@ -17,7 +17,7 @@ permalink: /ropa/
             {% assign loopindex = forloop.index | modulo: 3 %}
             <div class="col-sm-4 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
               <div class="acc-single">
-                <img src="{{ r.img | prepend: site.baseurl }}" class="img-responsive" alt="">
+                <img src="{{ r.img }}" class="img-responsive" alt="">
                 <div class="caption-prod">
                     <div class="details-prod">
                         <h4>

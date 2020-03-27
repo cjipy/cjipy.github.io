@@ -1,60 +1,60 @@
 - name: chal1
   price: 20.00 €
-  img: assets/productos/accesorios/chal1.jpg
+  img: ../assets/productos/accesorios/chal1.jpg
   number: 1
 
 - name: chal2
   price: 20.00 €
-  img: assets/productos/accesorios/chal2.jpg
+  img: ../assets/productos/accesorios/chal2.jpg
   number: 2
 
 - name: chal3
   price: 25.00 €
-  img: assets/productos/accesorios/chal3.jpg
+  img: ../assets/productos/accesorios/chal3.jpg
   number: 3
 
 - name: chal4
   price: 25.00 €
-  img: assets/productos/accesorios/chal4.jpg
+  img: ../assets/productos/accesorios/chal4.jpg
   number: 4
 
 - name: cartera1
   price: 15.00 €
-  img: assets/productos/accesorios/cartera1.jpg
+  img: ../assets/productos/accesorios/cartera1.jpg
   number: 5
 
 - name: cartera2
   price: 15.00 €
-  img: assets/productos/accesorios/cartera2.jpg
+  img: ../assets/productos/accesorios/cartera2.jpg
   number: 6
 
 
 - name: cartera3
   price: 15.00 €
-  img: assets/productos/accesorios/cartera3.jpg
+  img: ../assets/productos/accesorios/cartera3.jpg
   number: 7
 
 - name: colgador1
   price: 15.00 €
-  img: assets/productos/accesorios/colgador1.jpg
+  img: ../assets/productos/accesorios/colgador1.jpg
   number: 8
 
 - name: correa1
   price: 20.00 €
-  img: assets/productos/accesorios/correa1.jpg
+  img: ../assets/productos/accesorios/correa1.jpg
   number: 9
 
 - name: correa2
   price: 20.00 €
-  img: assets/productos/accesorios/correa2.jpg
+  img: ../assets/productos/accesorios/correa2.jpg
   number: 10
 
 - name: goma1
   price: 5.00 €
-  img: assets/productos/accesorios/goma1.jpg
+  img: ../assets/productos/accesorios/goma1.jpg
   number: 11
 
 - name: joyeria1
   price: 5.00 €
-  img: assets/productos/accesorios/joyeria1.jpg
+  img: ../assets/productos/accesorios/joyeria1.jpg
   number: 12

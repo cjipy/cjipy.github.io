@@ -1,51 +1,51 @@
 - name: bolso1
   price: 25.00 €
-  img: assets/productos/bolsos/bolso1.jpg
+  img: ../assets/productos/bolsos/bolso1.jpg
   number: 1
 
 - name: bolso2
   price: 25.00 €
-  img: assets/productos/bolsos/bolso2.jpg
+  img: ../assets/productos/bolsos/bolso2.jpg
   number: 2
 
 - name: bolso3
   price: 30.00 €
-  img: assets/productos/bolsos/bolso3.jpg
+  img: ../assets/productos/bolsos/bolso3.jpg
   number: 3
 
 - name: bolso4
   price: 25.00 €
-  img: assets/productos/bolsos/bolso4.jpg
+  img: ../assets/productos/bolsos/bolso4.jpg
   number: 4
 
 - name: bolso5
   price: 25.00 €
-  img: assets/productos/bolsos/bolso5.jpg
+  img: ../assets/productos/bolsos/bolso5.jpg
   number: 5
 
 - name: bolso6
   price: 30.00 €
-  img: assets/productos/bolsos/bolso6.jpg
+  img: ../assets/productos/bolsos/bolso6.jpg
   number: 6
 
 - name: bolso7
   price: 20.00 €
-  img: assets/productos/bolsos/bolso7.jpg
+  img: ../assets/productos/bolsos/bolso7.jpg
   number: 7
 
 - name: bolso8
   price: 25.00 €
-  img: assets/productos/bolsos/bolso8.jpg
+  img: ../assets/productos/bolsos/bolso8.jpg
   number: 8
 
 - name: bolso9
   price: 30.00 €
-  img: assets/productos/bolsos/bolso9.jpg
+  img: ../assets/productos/bolsos/bolso9.jpg
   number: 9
 
 - name: bolso10
   price: 20.00 €
-  img: assets/productos/bolsos/bolso10.jpg
+  img: ../assets/productos/bolsos/bolso10.jpg
   number: 10
 
 
