@@ -425,14 +425,14 @@ img.bg-html {
       }
 
       
-     @media (min-width: 769px) {
+     @media (min-width: 1025px) {
       .btn-prod {
           font-size: 90px;
       }
      }
       
       
-     @media (max-width: 768px) {
+     @media (max-width: 1025px) {
       .btn-prod {
           font-size: 50px;
       }
@@ -629,8 +629,10 @@ img.bg-html {
         display: block;
         float: none;
         .navbar-toggle {
+          margin-top: 20%;
+          margin-bottom: 20%;
           background-color: #fff;
-          padding: 0px 10px;
+          padding: 9px 10px;
           border: none;
         }
       }
