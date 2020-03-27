@@ -16,7 +16,7 @@
   i18n: nav.ropa
   name: ropa
   tpl: ropa_sub.html
-  ropa: ropa/
+  page: ropa/
   css: 
 
     
